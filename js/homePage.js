@@ -60,5 +60,10 @@ function createProgressBar() {
   cancelIcon.id = "cancel";
   var box = document.getElementById('cancel');
   cancel.appendChild(cancelIcon);
+
+
 }  
+
+
+
 
