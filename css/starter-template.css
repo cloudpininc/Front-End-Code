@@ -919,4 +919,5 @@ font-family: "Helvetica Neue";
 .box {
 	width:250px;
 	border:1px solid black;
+	height:320px;
 }
