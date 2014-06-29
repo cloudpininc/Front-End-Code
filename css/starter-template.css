@@ -918,6 +918,6 @@ font-family: "Helvetica Neue";
 
 .box {
 	width:250px;
-	border:1px solid black;
+	border:3px solid #ebeded;;
 	height:320px;
 }
